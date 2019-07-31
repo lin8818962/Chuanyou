@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/clickpage",
+    "pages/index/clickpage2",
+    "pages/page2/page2",
+    "pages/historical_site/historical_site",
+    "pages/historical_site/checkpage",
+    "pages/logs/logs",
+    "pages/natural_scenery/natural_scenery",
+    "pages/natural_scenery/checkpage",
+    "pages/park/park",
+    "pages/park/checkpage",
+    "pages/folk_custom/folk_custom",
+    "pages/folk_custom/checkpage",
+    "pages/religious_place/religious_place",
+    "pages/religious_place/checkpage",
+    "pages/star_level/star_level",
+    "pages/star_level/checkpage",
+    "pages/star_level/checkpage2",
+    "pages/budget_travel/budget_travel",
+    "pages/budget_travel/checkpage",
+    "pages/self_driving/self_driving",
+    "pages/self_driving/checkpage",       
+"pages/former_residence_of_celebrities/former_residence_of_celebrities",
+    "pages/former_residence_of_celebrities/checkpage"
+  ],
+  "window": {
+    "backgroundTextStyle": "white",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "川游",
+    "navigationBarTextStyle": "white"
+  },
+    "tabBar": {
+      "color": "#a9b7b7",
+      "selectedColor": "#11cd6e",
+      "borderStyle": "white",
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "text": "首页"
+        },
+        {
+          "pagePath": "pages/page2/page2",
+          "text": "分类"
+        }
+      ]
+    }
+}
